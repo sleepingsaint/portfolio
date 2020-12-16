@@ -3,34 +3,34 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://example.org/portfolio/</loc>
+    <loc>https://sleepingsaint.github.io/portfolio/portfolio/</loc>
     <lastmod>2020-12-16T15:15:47+05:30</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/portfolio/preview/</loc>
+    <loc>https://sleepingsaint.github.io/portfolio/portfolio/preview/</loc>
     <lastmod>2020-12-16T15:15:47+05:30</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/</loc>
+    <loc>https://sleepingsaint.github.io/portfolio/</loc>
     <lastmod>2020-12-16T15:15:47+05:30</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/categories/</loc>
+    <loc>https://sleepingsaint.github.io/portfolio/categories/</loc>
   </url>
   
   <url>
-    <loc>http://example.org/contact/</loc>
+    <loc>https://sleepingsaint.github.io/portfolio/contact/</loc>
   </url>
   
   <url>
-    <loc>http://example.org/blog/</loc>
+    <loc>https://sleepingsaint.github.io/portfolio/blog/</loc>
   </url>
   
   <url>
-    <loc>http://example.org/tags/</loc>
+    <loc>https://sleepingsaint.github.io/portfolio/tags/</loc>
   </url>
   
 </urlset>

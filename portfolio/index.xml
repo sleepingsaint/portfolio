@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Portfolios on Sleepingsaint</title>
-    <link>http://example.org/portfolio/</link>
+    <link>https://sleepingsaint.github.io/portfolio/portfolio/</link>
     <description>Recent content in Portfolios on Sleepingsaint</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 16 Dec 2020 15:15:47 +0530</lastBuildDate>
     
-	<atom:link href="http://example.org/portfolio/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://sleepingsaint.github.io/portfolio/portfolio/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Preview</title>
-      <link>http://example.org/portfolio/preview/</link>
+      <link>https://sleepingsaint.github.io/portfolio/portfolio/preview/</link>
       <pubDate>Wed, 16 Dec 2020 15:15:47 +0530</pubDate>
       
-      <guid>http://example.org/portfolio/preview/</guid>
+      <guid>https://sleepingsaint.github.io/portfolio/portfolio/preview/</guid>
       <description>How to use this? enter the url that you want to get the metadata for and click the get preview button.
 It will return the response (metadata) in json format.
  
