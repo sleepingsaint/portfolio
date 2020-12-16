@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Sleepingsaint</title>
+    <link>http://example.org/</link>
+    <description>Recent content on Sleepingsaint</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 16 Dec 2020 15:15:47 +0530</lastBuildDate>
+    
+	<atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Preview</title>
+      <link>http://example.org/portfolio/preview/</link>
+      <pubDate>Wed, 16 Dec 2020 15:15:47 +0530</pubDate>
+      
+      <guid>http://example.org/portfolio/preview/</guid>
+      <description>How to use this? enter the url that you want to get the metadata for and click the get preview button.
+It will return the response (metadata) in json format.
+ 
+References Github Repo - All the code for this project is here
+Microlink API - api used to scrape and give the metadata
+React JS - UI built using react js
+Prism JS - JS library used to hightlight the code (response)</description>
+    </item>
+    
+  </channel>
+</rss>
