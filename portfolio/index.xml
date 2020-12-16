@@ -6,10 +6,35 @@
     <description>Recent content in Portfolios on Sleepingsaint</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 16 Dec 2020 15:15:47 +0530</lastBuildDate>
+    <lastBuildDate>Wed, 16 Dec 2020 16:09:37 +0530</lastBuildDate>
     
 	<atom:link href="https://sleepingsaint.github.io/portfolio/portfolio/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Matesplayer</title>
+      <link>https://sleepingsaint.github.io/portfolio/portfolio/matesplayer/</link>
+      <pubDate>Wed, 16 Dec 2020 16:09:37 +0530</pubDate>
+      
+      <guid>https://sleepingsaint.github.io/portfolio/portfolio/matesplayer/</guid>
+      <description>📺 MatesPlayer Created as a hobby project to have a video player which can be completely customizable and yet powerful with no compromises.
+Github Repo - Code for this project is in here
+💻 Technologies Used  Electron JS Electron Forge Node JS  🔥 How to use   Clone the project
+  Install the dependencies
+npm install   Creating the executable for your device
+npm run make   You can find the executable in out/make folder inside the directory</description>
+    </item>
+    
+    <item>
+      <title>Hermio</title>
+      <link>https://sleepingsaint.github.io/portfolio/portfolio/hermio/</link>
+      <pubDate>Wed, 16 Dec 2020 15:57:17 +0530</pubDate>
+      
+      <guid>https://sleepingsaint.github.io/portfolio/portfolio/hermio/</guid>
+      <description>HERMIO A simple discord bot to make your time more enjoyable. Join the server to see the bot in action.
+Github Repo - Github Repo of this project
+Commands    Command Description     $inspire Genereate inspirational quote   $article Provides new interesting article from dev.to community   $bored Suggests a random activity   $food Displays random food image   $qr text Generates the QR Code for the text provided.</description>
+    </item>
     
     <item>
       <title>Preview</title>
